@@ -9,3 +9,8 @@
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
 </body>
 </html>
+backend:
+  name: github
+  repo: rafaelgagnon11-droid/-quipementsLamoureux
+  branch: main
+media_folder: "images"
